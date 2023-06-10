@@ -20,9 +20,51 @@
   box-sizing: border-box;
 }
 
+header {
+  margin: 20px 20px;
+}
+
+main {
+  margin: 20px 40px;
+}
+
+.link {
+  margin: 20px 40px;
+}
 
 table {
-  width: 70%;
-  margin: 0 auto;
-  
+  margin: 20px 20px;
+}
+
+table th {
+  padding-bottom: 5px;
+}
+
+table td {
+  padding-right: 5px;
+  padding-left: 5px;
+  margin: 33px;
+}
+
+.text {
+  margin: 20px 40px;
+}
+
+.show1 {
+  display: flex;
+  margin: 20px 80px;
+}
+
+.show2 {
+  display: flex;
+  margin: 20px 80px;
+}
+
+.edit {
+  margin: 20px 40px;
+}
+
+.flash {
+  color: #008000;
+  margin: 20px 80px;
 }
