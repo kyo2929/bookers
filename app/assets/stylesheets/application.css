@@ -68,3 +68,22 @@ table td {
   color: #008000;
   margin: 20px 80px;
 }
+
+.validates{
+  width: 450px;
+  border: 2px solid #ff0000;
+  padding: 7px;
+  padding-bottom: 0px;
+  margin-bottom: 20px;
+}
+
+.herrors {
+  margin: -7px;
+  padding: 20px 10px;
+  color: #ffffff;
+  background-color: #ff0000;
+}
+
+ul {
+  margin: 40px;
+}
