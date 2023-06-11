@@ -48,6 +48,7 @@ table td {
 
 .text {
   margin: 20px 40px;
+  display: block;
 }
 
 .show1 {
