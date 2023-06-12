@@ -17,7 +17,7 @@
   </div>
   <% end %>
 
-<%= form_with model: @book :patch do |f| %>
+<%= form_with model: @book do |f| %>
   
 <div class="text">
   <h4>Title</h4>
@@ -33,7 +33,7 @@
 
 <div class="link">
   <%= link_to "Show", book_path(@book.id) %>
-  <%= link_to "Back", "/books" %>
+  <%= link_to "Back", '/books' %>
 </div>
 
 <% end %>
